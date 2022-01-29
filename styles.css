@@ -1,0 +1,85 @@
+body{
+  background-color: #090B1A;
+  text-align: center;
+  color: white;
+  margin: 0;
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+.card{
+  background-color: #1B1938;
+ display: inline-block;
+  margin: 100px auto 100px auto;
+  height: 446px;
+  width: 1020px;
+
+
+}
+
+.meeting{
+  float: right;
+  position: absolute;
+  top: 100px;
+  right: 400px;
+  margin-left: 100px;
+}
+img{
+  filter: sepia(100%) saturate(400%) brightness(70%) hue-rotate(230deg)
+
+}
+
+
+.text-card{
+  text-align: left;
+
+  clear:both;
+  margin-left: 75px;
+  margin-top: 75px;
+}
+h3{
+  width: 40%;
+  font-weight: 300;
+  line-height: 1.5;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  margin-top: 10px;
+}
+
+h1{
+  color: white;
+  font-family: 'Inter', sans-serif;
+  width: 40%;
+}
+
+h2{
+  color: white;
+
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.text-box-1{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  line-height: 0.5;
+  margin-right: 20px;
+
+}
+
+.text-box-2{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  line-height: 0.5;
+  margin-right: 20px;
+
+}
+
+.text-box-3{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  line-height: 0.5;
+
+}
